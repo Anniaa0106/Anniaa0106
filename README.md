@@ -1,49 +1,53 @@
 <h1 align="center">Greetings friends, I'm Aniket Jain</h1>
-<h3 align="center">A software developer of humble origins, who holds a fierce love for programming, DX (Developer Experience), and DS (Dark souls).</h3>
+<h3 align="center">
+Full Stack Developer specializing in scalable web applications, analytics interfaces, and innovative data visualization.
+</h3>
 
-Self-development is my jam 😎; I live for the satisfaction given by overcoming and understanding problems of all magnitudes — be it a towering colossus in a game or a riddle in code. And above all, to remain modest and target-oriented while doing so!
+<p>
+I'm a passionate developer with hands-on experience in designing robust, efficient products using React, .NET Core, and modern databases. I thrive on solving real-world challenges and driving digital transformation through thoughtful engineering and a focus on end-user experience. My background spans analytics platforms, CRM integrations, and building dynamic dashboards and interfaces that empower data-driven decisions.
+</p>
 
-- 🔭 Currently, I'm working on **Building the UI Framework & Design System for Minecraft Bedrock at [Mojang Studios](https://www.minecraft.net/)**
+<ul>
+  <li>
+    <b>Full Stack Developer at BUSINESSNEXT (Sep 2023 – Present):</b>
+    <ul>
+      <li>Developed scalable React-based analytics dashboard interfaces and robust backend APIs for real-time, interactive AI-generated insights.</li>
+      <li>Reduced manual charting workload by 60% by automating and rendering intelligent data visualizations.</li>
+      <li>Expanded reporting reach with PostgreSQL migration, Power BI embedding, and advanced drill-down features for dynamic analytics.</li>
+    </ul>
+  </li>
+  <li>
+    <b>Software Development Intern, BUSINESSNEXT (Oct 2022 – Aug 2023):</b>
+    <ul>
+      <li>Built custom analytics modules with 40+ chart types and developed React error boundaries to enhance application reliability.</li>
+    </ul>
+  </li>
+  <li>
+    <b>Noteworthy Project:</b> Created a dynamic, JSON-driven dashboard UI auto-generating layouts from structured inputs, streamlining product development cycles.
+  </li>
+</ul>
 
-- 🌱 I’m currently learning more about **Frontend App Architecture, DevOps and Backend Development**
-
-- 💬 Ask me about **Localization, Github Actions, React Hooks and any JavaScript questions you might have**
-
+<p><b>Technical Skillset</b></p>
 <p align="left">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" /> 
-  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-A088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
-  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-  <img alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img alt=".Net Core" src="https://img.shields.io/badge/-.Net_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/Github_Actions-A088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&include_all_commits=true&theme=material-palenight" alt="shenato" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenato&layout=compact&hide=html&theme=material-palenight" alt="shenato" />
-</p>
+<p><b>What I'm up to:</b></p>
+<ul>
+  <li>Building and optimizing analytics products, dashboards, and scalable backend APIs.</li>
+  <li>Automating data flows, improving CRM platforms, and integrating modern reporting tools.</li>
+  <li>Constantly learning—currently deepening expertise in frontend architecture, DevOps, and advanced backend development.</li>
+</ul>
 
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=g-loot&repo=react-tournament-brackets&theme=material-palenight" alt="shenato"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=shenato&repo=react-i18n-manager&theme=material-palenight" alt="shenato"> 
-</p>
 
-<p align="center">
-<a href="https://linkedin.com/in/omar-elgaml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omar-elgaml" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8581902/omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581902/omar" height="30" width="30" /></a>
-</p>
